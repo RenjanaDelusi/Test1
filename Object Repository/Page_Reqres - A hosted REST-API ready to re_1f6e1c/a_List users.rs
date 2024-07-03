@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_List users</name>
+   <tag></tag>
+   <elementGuidId>e72188de-3212-43dd-8d30-1e6089487d2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='console']/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.active > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75b0a6ed-009b-46a7-95ac-40ccc4d5a95e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>try-link</value>
+      <webElementGuid>e544766a-b9a4-428a-b6b0-f07f9c6dc893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/api/users?page=2</value>
+      <webElementGuid>89164a03-f5aa-4d58-8bc3-ffb80d238da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> List users </value>
+      <webElementGuid>9339a352-bddb-4b7e-9f58-9807b8ddbb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;console&quot;)/div[@class=&quot;endpoints&quot;]/ul[1]/li[@class=&quot;active&quot;]/a[1]</value>
+      <webElementGuid>b8b3b2e7-5068-43c0-b4d2-863d8a4f5d2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='console']/div/ul/li/a</value>
+      <webElementGuid>d971272b-ceaf-4b34-b50f-8b39a5a1c16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'List users')]</value>
+      <webElementGuid>aa31bc4e-516a-4abe-a848-dd11f889ae0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support ReqRes'])[1]/following::a[1]</value>
+      <webElementGuid>43a5cf54-0864-4a46-bdcd-0e3fb57bce18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Give it a try'])[1]/following::a[2]</value>
+      <webElementGuid>a6ad07ef-ce3b-4411-a7d1-674560c0b935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single user'])[1]/preceding::a[1]</value>
+      <webElementGuid>addc0d83-855b-429d-a2a8-760fd9ee3193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single user not found'])[1]/preceding::a[2]</value>
+      <webElementGuid>a1ea0f04-d6a1-48ff-bfc1-f0e97b6372cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='List users']/parent::*</value>
+      <webElementGuid>caeffae0-6882-4365-b39b-cd3c8e693bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/api/users?page=2')]</value>
+      <webElementGuid>2bc6c836-fe77-4cf5-8203-432ac277a2ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>ce20cf13-251c-42f7-8009-b0da2a5afa24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/api/users?page=2' and (text() = ' List users ' or . = ' List users ')]</value>
+      <webElementGuid>7271dd56-3c7f-42ae-9655-e1da671bb862</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

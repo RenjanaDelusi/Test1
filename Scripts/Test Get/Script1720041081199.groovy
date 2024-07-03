@@ -17,39 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://reqres.in/')
-
-WebUI.click(findTestObject('Object Repository/Page_Reqres - A hosted REST-API ready to re_1f6e1c/a_List users'))
-
-WebUI.navigateToUrl('https://reqres.in/api/users?page=1')
-
-WebUI.delay(5)
-
-WebUI.navigateToUrl('https://reqres.in/')
-
-WebUI.click(findTestObject('Object Repository/Page_Reqres - A hosted REST-API ready to re_1f6e1c/a_Single user'))
-
-WebUI.click(findTestObject('Object Repository/Page_Reqres - A hosted REST-API ready to re_1f6e1c/span_apiusers2'))
-
-WebUI.delay(5)
-
-WebUI.navigateToUrl('https://reqres.in/')
-
-WebUI.click(findTestObject('Object Repository/Page_Reqres - A hosted REST-API ready to re_1f6e1c/li_Update'))
-
-WebUI.click(findTestObject('Object Repository/Page_Reqres - A hosted REST-API ready to re_1f6e1c/span_apiusers2'))
-
-WebUI.delay(5)
-
-WebUI.navigateToUrl('https://reqres.in/')
-
-WebUI.click(findTestObject('Object Repository/Page_Reqres - A hosted REST-API ready to re_1f6e1c/a_Register - successful'))
-
-WebUI.click(findTestObject('Object Repository/Page_Reqres - A hosted REST-API ready to re_1f6e1c/span_apiregister'))
-
-WebUI.delay(5)
-
-WebUI.closeBrowser()
-

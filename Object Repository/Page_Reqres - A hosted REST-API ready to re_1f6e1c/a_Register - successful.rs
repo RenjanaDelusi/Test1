@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Register - successful</name>
+   <tag></tag>
+   <elementGuidId>d2a679be-31a3-4971-9927-1b24633f4c4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='console']/div/ul/li[11]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>762d8f77-f195-4f13-87e2-38ac207abdbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>try-link</value>
+      <webElementGuid>c951b7c5-99f7-42f1-8022-f71b8cbb44ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/api/register</value>
+      <webElementGuid>33b752e1-fb98-4208-b4ff-c95807493ffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Register - successful </value>
+      <webElementGuid>b836eed4-1a26-4361-9f1a-73a27aa57725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;console&quot;)/div[@class=&quot;endpoints&quot;]/ul[1]/li[11]/a[1]</value>
+      <webElementGuid>980873b1-1a71-4b4f-9ce1-496b679a62ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='console']/div/ul/li[11]/a</value>
+      <webElementGuid>9a052127-3204-431f-94da-5e229e4e3236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Register - successful')]</value>
+      <webElementGuid>072e3a76-7854-4244-8153-9e897224ba0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::a[1]</value>
+      <webElementGuid>68161600-fd04-45bb-b7bf-b7e889b55bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[2]/following::a[2]</value>
+      <webElementGuid>648372ba-66c7-4049-b6a7-dd97c7eeedb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register - unsuccessful'])[1]/preceding::a[1]</value>
+      <webElementGuid>391bd0db-e2d9-4f97-ba2f-d8b34c9170cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login - successful'])[1]/preceding::a[2]</value>
+      <webElementGuid>02a11edc-2c37-4030-a5b8-6116969eae18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register - successful']/parent::*</value>
+      <webElementGuid>01880806-bd9e-464e-81bf-15a047afc1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/api/register')]</value>
+      <webElementGuid>5a99b913-8228-4f6f-a6ce-c9bc5af35052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a</value>
+      <webElementGuid>df78b1b6-41b0-4c60-abe8-ea5992abf8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/api/register' and (text() = ' Register - successful ' or . = ' Register - successful ')]</value>
+      <webElementGuid>a142ed4a-75cd-4d6e-b31c-cf081e7d7851</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
